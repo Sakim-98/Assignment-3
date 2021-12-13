@@ -1,4 +1,6 @@
-# Assignment-3
+# Assignment-3 
+
+# Can be edited for more/larger sequences 
 
 1) split each sequences into individual amino acids
 
