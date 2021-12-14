@@ -10,4 +10,4 @@
 
 4) create dataframe from all the boolean series (for each pairwise comparison) and turn the booleans into 0 and 1 
 
-5) get the column index which has lowest sum (as that amino acid column contains the highest pairwise false result/mutation)
+5) get the column index which has lowest sum (as that index+1 amino acid contains the highest pairwise false result/mutation)
