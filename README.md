@@ -1,6 +1,6 @@
 # Assignment-3 
 
-# Can be edited for more/larger sequences. Aligned sequence only
+# Can be edited for more/larger sequences. Aligned sequences only
 
 1) split each sequences into individual amino acids
 
